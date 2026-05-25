@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 💻 PHP Developer | 🚀 DSA Learner | 🌱 Passionate Programmer
+### 💻 PHP Developer | 🚀 DSA Learner | 🌱 Problem Solver
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Ideas+Through+Code;DSA+Learner;Crafting+Logic+with+Code;Always+Learning+New+Things" />
 
