@@ -42,11 +42,11 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Aruna576-bot&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Aruna-stack&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aruna576-bot&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aruna-stack&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruna576-bot&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aruna-stack&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
