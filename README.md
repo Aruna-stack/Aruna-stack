@@ -57,7 +57,9 @@
 <div align="center">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Aruna-Engineer?theme=#483D8B&fontBaloo&ext=activity)
-
+<a href="https://leetcode.com/Aruna-Engineer/" target="blank">
+<img align="left" src="https://img.shields.io/badge/LeetCode-indigo?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 </div>
 
 ---
