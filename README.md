@@ -62,7 +62,7 @@
 
 # 🧠 GFG Progress
 <div align="center">
-![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=d7195bjdg&theme=dark)
+![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/api?username=d7195bjdg&theme=dark)
 <a href="https://www.geeksforgeeks.org/user/d7195bjdg/" target="blank">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
