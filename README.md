@@ -57,7 +57,9 @@
 <img align="left" src="https://img.shields.io/badge/LeetCode-indigo?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 </div>
+
 ---
+
 # 🌐 Connect With Me
 
 <p align="left">
