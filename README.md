@@ -16,11 +16,6 @@
 💡 Skilled in backend technologies and continuously improving coding skills through LeetCode.  
 🎯 Currently focusing on DSA and full-stack development growth.
 
-
-
----
-
-
 ---
 
 # 🚀 Tech Stack
@@ -62,8 +57,6 @@
 <img align="left" src="https://img.shields.io/badge/LeetCode-indigo?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 </div>
-
----
 ---
 # 🌐 Connect With Me
 
@@ -86,5 +79,7 @@
 </p>
 
 <div align="center">
+  
+  ---
 ⭐ Thanks for visiting my profile ⭐
 </div> 
