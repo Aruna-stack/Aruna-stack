@@ -50,7 +50,7 @@
 
 # 🧠 LeetCode Progress
 
-<div align="center">
+<div align="left">
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Aruna-Engineer?theme=#483D8B&fontBaloo&ext=activity)
 <a href="https://leetcode.com/Aruna-Engineer/" target="blank">
@@ -62,9 +62,9 @@
 
 # 🧠 GFG Progress
 <div align="center">
-
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</div>
+<a href="https://www.geeksforgeeks.org/user/d7195bjdg/" target="blank">
+<img align="center" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
 
 ---
 
