@@ -76,6 +76,10 @@
 <img align="center" src="https://img.shields.io/badge/LeetCode-indigo?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
+<a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/" target="blank">
+<img align="center" src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
+
 <a href="mailto:aruna.d1010@gmail.com">
 <img align="center" src="https://img.shields.io/badge/Gmail-darkblue?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
