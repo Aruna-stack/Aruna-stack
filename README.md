@@ -12,7 +12,7 @@
 
 # 💫 About Me
 
-✨ PHP Developer with strong interest in problem solving and Data Structures & Algorithms.  
+✨ Python Developer with strong interest in problem solving and Data Structures & Algorithms.  
 💡 Skilled in backend technologies and continuously improving coding skills through LeetCode.  
 🎯 Currently focusing on DSA and full-stack development growth.
 
